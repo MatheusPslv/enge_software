@@ -7,6 +7,6 @@ Projeto desenvolvido para atividade de Gerência de Configuração de Software.
 - Matheus Prudente da Silva
 - Vitor de Almeida Castro
 
-## Tecnologias
-- Git
-- GitHub
+## ideia:
+
+Ferramenta de cadastro de alunos
