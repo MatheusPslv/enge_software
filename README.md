@@ -1,6 +1,6 @@
 # Projeto GCS
 
-Projeto desenvolvido para a disciplina de Gerência de Configuração de Software.
+Projeto desenvolvido para atividade de Gerência de Configuração de Software.
 
 ## Integrantes
 - Paulo Henrqiue Floriano
